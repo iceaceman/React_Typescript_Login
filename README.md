@@ -67,3 +67,10 @@ export default tseslint.config([
   },
 ])
 ```
+
+
+## Installation Instructions
+
+   1. Run `git clone https://github.com/iceaceman/React_Typescript_Login.git`
+   2. Run `mv React_Typescript_Login frontend`
+      
